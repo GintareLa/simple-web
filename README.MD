@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/GintareLa/54-grupe-ufo
+Site published at: https://github.com/GintareLa/simple-web
 
 Design:
 
@@ -44,7 +44,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/GintareLa/54-grupe-ufo.git
+   git clone https://github.com/GintareLa/simple-web.git
    ```
 2. Install NPM packages
    ```sh
